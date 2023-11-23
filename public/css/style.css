@@ -267,3 +267,27 @@ footer ul li a {
     width: 300px;
     cursor: pointer;
 }
+
+.form-container {
+    width: 75%;
+    text-align: center;
+    margin: 2rem auto;
+}
+
+form {
+    width: 75%;
+    margin: 0 auto;
+}
+
+.result-container {
+    text-align: center;
+}
+
+.movie-data-list {
+    list-style: none;
+    line-height: 2rem;
+}
+
+span {
+    font-weight: bold;
+}
