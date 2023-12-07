@@ -6,6 +6,12 @@
     /*your code here*/box-sizing: border-box;
 }
 
+.chat-container {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
 html {
     font-family: 'Roboto', sans-serif; /*your code here*/;
     color: #151515;
@@ -290,10 +296,4 @@ form {
 
 span {
     font-weight: bold;
-}
-
-.chat-container {
-    position: fixed;
-    bottom: 0;
-    right: 0;
 }
