@@ -291,3 +291,9 @@ form {
 span {
     font-weight: bold;
 }
+
+.chat-container {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
